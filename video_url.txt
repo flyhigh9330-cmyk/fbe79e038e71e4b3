@@ -1,0 +1,5 @@
+Player URL:
+https://flyhigh9330-cmyk.github.io/player/?list=https://raw.githubusercontent.com/flyhigh9330-cmyk/fbe79e038e71e4b3/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/flyhigh9330-cmyk/fbe79e038e71e4b3/refs/heads/master/github_master.m3u8
